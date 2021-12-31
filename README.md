@@ -9,4 +9,4 @@ Calculadora feita para o oficina do curso de Flutter da Dell.
 - [Chrome OS](https://docs.flutter.dev/get-started/install/chromeos)
 
 ## Apresentação
-![Apresentação](Apresentação.gif)
+<center><img src="Apresentação.gif" width="200"></center>
